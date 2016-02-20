@@ -3,7 +3,7 @@ linter-sourcekitten-syntax
 
 This linter plugin for [Linter](https://github.com/AtomLinter/Linter) provides an interface to SourceKitten's syntax information. Used with files that have the `Swift` syntax.
 
-![screenshot1](screenshots/screenshot1.png)
+![screenshot1](https://raw.githubusercontent.com/norio-nomura/linter-sourcekitten-syntax/master/screenshots/screenshot1.png)
 
 ## Installation
 
